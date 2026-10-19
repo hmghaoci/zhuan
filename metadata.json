@@ -1,0 +1,6 @@
+{
+  "name": "纠结终结者 - 选择困难症抽签与决定助手",
+  "description": "专为选择困难症打造的多功能决策工具：包含幸运大转盘、摇签祈福筒、盲盒翻牌、抛硬币双选与多人指尖轮盘，内置丰富生活决策题库，助你秒做决定！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
